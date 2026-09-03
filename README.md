@@ -1,5 +1,5 @@
 ## Hi there 👋
-tis me Anjali
+IT's me Anjali
 <!--
 **anjalibastola111-stack/anjalibastola111-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
